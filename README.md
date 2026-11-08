@@ -1,2 +1,3 @@
-#releases
-Public release 
+# Releases
+
+Release artifacts and automatic updates.
